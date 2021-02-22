@@ -1,6 +1,6 @@
 {
   "id": "realm-second-brain",
-  "version": "2021-02-22-15-35-50",
+  "version": "2021-02-22-20-00-50",
   "supportedOntologies": [
     "ont-second-brain:1.0.0"
   ],
@@ -38,7 +38,7 @@
       "value": "# The Value of Everything\nSkrevet af [[mariana-mazzucato]]"
     },
     {
-      "id": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a",
+      "id": "bd22e0d7-f73b-5089-aa43-6d15f9951616",
       "propertyType": "relation",
       "type": "links",
       "link": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a"
@@ -59,13 +59,13 @@
       "value": "# The Wealth of Nations\nSkrevet af [[adam-smith]]\n\nBogen har isaer faaet mig til at taenke over forholdet mellem leje udgifter og produktive udgifter.\nJeg kom til bogen efter af have laest [[the-value-of-everything]]"
     },
     {
-      "id": "3789fda3-9042-539e-8463-7b2ba510032e",
+      "id": "aa5615f8-dd5c-576e-aa05-b10beffcbaa0",
       "propertyType": "relation",
       "type": "links",
       "link": "3789fda3-9042-539e-8463-7b2ba510032e"
     },
     {
-      "id": "bd22e0d7-f73b-5089-aa43-6d15f9951616",
+      "id": "aa5615f8-dd5c-576e-aa05-b10beffcbaa0",
       "propertyType": "relation",
       "type": "links",
       "link": "bd22e0d7-f73b-5089-aa43-6d15f9951616"
@@ -136,19 +136,19 @@
       "value": "\nToday I finished [[the-value-of-everything]]. I thought highly about the book\nand it has given me some foundational thoughts on [[economy]]\n\nI also watched some YouTube videos about the author [[mariana-mazzucato]].\nan impressive woman.\n"
     },
     {
-      "id": "bd22e0d7-f73b-5089-aa43-6d15f9951616",
+      "id": "04c5258e-6f40-5bdd-b999-d785239f02e0",
       "propertyType": "relation",
       "type": "links",
       "link": "bd22e0d7-f73b-5089-aa43-6d15f9951616"
     },
     {
-      "id": "4e11333f-506f-513a-9049-a2ec97735245",
+      "id": "04c5258e-6f40-5bdd-b999-d785239f02e0",
       "propertyType": "relation",
       "type": "links",
       "link": "4e11333f-506f-513a-9049-a2ec97735245"
     },
     {
-      "id": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a",
+      "id": "04c5258e-6f40-5bdd-b999-d785239f02e0",
       "propertyType": "relation",
       "type": "links",
       "link": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a"
@@ -169,19 +169,19 @@
       "value": "\nToday I thouht a lot about the structure of my second brain. It hits me that\nexploration becomes increasingly hard, and I don't really have the tools to\nextract insights from my second brain.\n\nThis is where [[distill-db]] becomes interesting.\n\n-----\n\nMy thoughts are centered around [[mariana-mazzucato]], [[adam-smith]] and what\nthey are teaching me about the global economy.\n"
     },
     {
-      "id": "bbf18d43-d938-5bbf-a44d-3e364bff5ce4",
+      "id": "e9e2fae2-5991-53f5-a701-e71e60925193",
       "propertyType": "relation",
       "type": "links",
       "link": "bbf18d43-d938-5bbf-a44d-3e364bff5ce4"
     },
     {
-      "id": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a",
+      "id": "e9e2fae2-5991-53f5-a701-e71e60925193",
       "propertyType": "relation",
       "type": "links",
       "link": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a"
     },
     {
-      "id": "3789fda3-9042-539e-8463-7b2ba510032e",
+      "id": "e9e2fae2-5991-53f5-a701-e71e60925193",
       "propertyType": "relation",
       "type": "links",
       "link": "3789fda3-9042-539e-8463-7b2ba510032e"
@@ -253,13 +253,13 @@
       "value": "# Second Brain Entry\n\n* Today: [[2021-01-06]]\n* Tomorrow: [[2021-01-07]]"
     },
     {
-      "id": "0386c274-bdcf-509e-99ea-2dc1a4b08e2a",
+      "id": "fda8915e-6ece-58ef-80cc-d566ef04da4e",
       "propertyType": "relation",
       "type": "links",
       "link": "0386c274-bdcf-509e-99ea-2dc1a4b08e2a"
     },
     {
-      "id": "ca41f34d-f40e-554d-ab37-6dbc98516946",
+      "id": "fda8915e-6ece-58ef-80cc-d566ef04da4e",
       "propertyType": "relation",
       "type": "links",
       "link": "ca41f34d-f40e-554d-ab37-6dbc98516946"
@@ -280,7 +280,7 @@
       "value": "# Distill Db\nEt konsoliderende lag overnpaa knowledge graphs, der kan brues til at sammenstille data.\n\nDistill Db er udelukkende et bibliotek, og kan altsaa ikke bruges som en applikation. Her skal der saa udvikles en raekke applikationer der kan bruge dette bibliotek. F.eks. [[ontology-aware-knowledge-graph-explorer]]\n"
     },
     {
-      "id": "c3ee89a0-8e2c-53b3-ac3e-f9ba688da7ad",
+      "id": "bbf18d43-d938-5bbf-a44d-3e364bff5ce4",
       "propertyType": "relation",
       "type": "links",
       "link": "c3ee89a0-8e2c-53b3-ac3e-f9ba688da7ad"
@@ -376,25 +376,25 @@
       "value": "\n# People\n\n* [[adam-smith]]\n* [[mariana-mazzucato]]\n\n# Literature\n\n* [[the-value-of-everything]]\n* [[the-wealth-of-nations]]"
     },
     {
-      "id": "3789fda3-9042-539e-8463-7b2ba510032e",
+      "id": "4e11333f-506f-513a-9049-a2ec97735245",
       "propertyType": "relation",
       "type": "links",
       "link": "3789fda3-9042-539e-8463-7b2ba510032e"
     },
     {
-      "id": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a",
+      "id": "4e11333f-506f-513a-9049-a2ec97735245",
       "propertyType": "relation",
       "type": "links",
       "link": "6f109041-a0a1-52e0-85bd-6c5ca0fa956a"
     },
     {
-      "id": "bd22e0d7-f73b-5089-aa43-6d15f9951616",
+      "id": "4e11333f-506f-513a-9049-a2ec97735245",
       "propertyType": "relation",
       "type": "links",
       "link": "bd22e0d7-f73b-5089-aa43-6d15f9951616"
     },
     {
-      "id": "aa5615f8-dd5c-576e-aa05-b10beffcbaa0",
+      "id": "4e11333f-506f-513a-9049-a2ec97735245",
       "propertyType": "relation",
       "type": "links",
       "link": "aa5615f8-dd5c-576e-aa05-b10beffcbaa0"
