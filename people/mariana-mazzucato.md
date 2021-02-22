@@ -1,1 +1,6 @@
-# Mariana Mazzucato
+---
+title: Mariana Mazzucato
+
+entityType: Person
+---
+
